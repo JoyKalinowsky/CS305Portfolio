@@ -20,12 +20,12 @@ In the future, I would do more research about all of the CVE vulnerabilities fou
 
 # How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 I made certain that the code and software application were functional and secure by building and then running my code with Maven software to make sure that the result was a website using SSL that depicted a SHA-256 encrypted hash value.
-I checked to see whether I introduced new vulnerabilities with the help of the OWASP Dependency-Check tool. I used the OWASP Dependency-Check Maven tool to recompile my code and report vulnerabilities within it.
+I checked to see whether I introduced new vulnerabilities with the help of the OWASP Dependency-Check Maven tool. I used this tool to generate a document that listed all known vulnerabilities in my code base.
 
 # What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 Some tools that I used that might be helpful in future assignments and tasks are the OWASP Java HTML Sanitizer, the OWASP Dependency-Check Maven tool, and Java's Keytool application.
 I found these tools useful to protect against XSS attacks, find known vulnerabilities in my code, and generate certificates to enable SSL secure connections for the final deployed website. 
 
 # Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
-I would mainly show future employers my code. When presenting this assignment via Github to future employers, I will upload my code base alongside the Practices for Secure Software report so that future employers can see my work and how I used Spring and Maven software to create a website that used SSL to form secure connections and contained an SHA-256 hash value.
+I would mainly show future employers my code. When presenting this assignment via Github to future employers, I will upload my code base alongside the Practices for Secure Software report so that future employers can see my work and how I used Spring and Maven software to create a website that used SSL to form secure connections and contain an SHA-256 hash value.
 From this assignment, in addition to displaying the Practices for Secure Software report, I might show future employers my changes to the original code base as well as screenshots that display the impact of those changes.
