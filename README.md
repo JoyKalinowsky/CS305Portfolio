@@ -28,4 +28,4 @@ I found these tools useful to protect against XSS attacks, find known vulnerabil
 
 # Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 I would mainly show future employers my code. When presenting this assignment via Github to future employers, I will upload my code base alongside the Practices for Secure Software report so that future employers can see my work and how I used Spring and Maven software to create a website that used SSL to form secure connections and contain a SHA-256 hash value.
-From this assignment, in addition to displaying the Practices for Secure Software report, I might show future employers my changes to the original code base as well as screenshots that display the impact of those changes.
+From this assignment, in addition to displaying the Practices for Secure Software report, I might also show future employers my changes to the original code base as well as screenshots that display the impact of those changes.
