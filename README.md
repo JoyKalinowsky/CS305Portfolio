@@ -15,7 +15,8 @@ This made it difficult to determine which vulnerabilities in my code needed my a
 
 # How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
 I increased layers of security by adding SSL encryption to the website. I used  to generate a certificate using Java's keytool application.   
-I also imported libraries from OWASP to better secure my code against XSS attacks. In the future, I would do more research about all of the CVE vulnerabilities found in my code and use online resources such as the National Vulnerability Database to learn the best mitigation techniques to use for each vulnerability. 
+I also imported libraries from OWASP to better secure my code against XSS attacks. 
+In the future, I would do more research about all of the CVE vulnerabilities found in my code and use online resources such as the National Vulnerability Database to learn the best mitigation techniques to use for each vulnerability. 
 
 # How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 I made certain that the code and software application were functional and secure by building and then running my code with Maven software to make sure that the result was a SSL-encrypted website that depicted a SHA-256 encrypted hash value.
